@@ -1,0 +1,46 @@
+﻿  Include.cpp
+  Jacobi_Solver.cpp
+  main.cpp
+C:\Users\user\source\repos\HW1\main.cpp(9,10): warning C4101: 'bs': unreferenced local variable
+C:\Users\user\source\repos\HW1\main.cpp(8,11): warning C4101: 'As': unreferenced local variable
+  MatProbGenerator.cpp
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(51,22): warning C4101: 'tmp': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(55,9): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(55,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(49): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(98,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(91,22): warning C4101: 'tmp': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(95,9): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(95,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(89): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(140,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(133,22): warning C4101: 'tmp': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(137,9): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(137,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(175,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(168,22): warning C4101: 'tmp': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(172,9): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(172,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(210,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(231,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(250,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\HW1\MatProbGenerator.cpp(267,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Par_Jacobi_Solver.cpp
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(20,6): warning C4101: 'th': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(20,11): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(20,9): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(3): warning C4101: 'norm': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(3): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(94,12): warning C4101: 'k': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(94,9): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(94,6): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(77): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(77): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(77): warning C4101: 'norm': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(183,13): warning C4101: 'k': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(183,10): warning C4101: 'j': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(183,7): warning C4101: 'i': unreferenced local variable
+C:\Users\user\source\repos\HW1\Par_Jacobi_Solver.cpp(166): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  HW1.vcxproj -> C:\Users\user\source\repos\HW1\x64\Debug\HW1.exe
